@@ -43,3 +43,19 @@ A system is considered reliable if it can tolerate faults. There are several kin
     6. Proper training and management practices
     7. Allow easy recovery like configuration rollbacks
     
+
+
+
+
+* Additional Notes
+
+1. RAID Levels
+RAID ( Redundant array of independent disks) is a storage mechanism that uses striping, mirroring, parity to create large data stores from multiple inexpensive hard disk drives
+
+Common levels
+RAID 0 : ( Striping) splits data into two or more disk drives withour parity , redundancy or fault tolerance
+![RAID_0 svg](https://user-images.githubusercontent.com/11659478/172336138-453042a8-718d-4b54-ab65-84c9da23ba55.png)
+
+RAID 1: Mirroring
+RAID 5: (distributed parity)
+RAID 6: (dual parity) 
