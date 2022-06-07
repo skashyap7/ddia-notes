@@ -6,3 +6,9 @@ Most ***Data Intensive applications*** are made from basic building blocks that 
 3. Allow uses to search data by keywords or filter ( Search Index )
 4. Send data for processing asynchronously ( Stream processing )
 5. Periodically crunch a large amount of accumulated data ( Batch processing) 
+
+
+These tools share general similarity but differ because of their 
+1. Data access patterns
+2. Performance characteristics
+and thus have very different implementations
