@@ -19,3 +19,10 @@ and thus have very different implementations
 |Reliability | The system should continue to work effectively even in case of adversity|
 |Scalability | The system should be able to handle load without major degradation in performance |
 |Maintainability | Upgrades and upkeep of the system can be done effectively and productively |
+
+
+A system is reliable if
+1. Performs the functionality user expected
+2. Can tolerate user errors
+3. Performs under the expected volume and load
+4. Prevents the system from unauthorized access or abuse
