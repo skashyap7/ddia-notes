@@ -7,3 +7,8 @@ Reasons to do replication
 3. Keep multiple copies to read data under high load efficiently / Increase read throughput
 
 
+
+
+Extra Reading
+
+1. https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/
